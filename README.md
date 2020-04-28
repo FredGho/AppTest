@@ -1,3 +1,10 @@
 # Front Application
 
-Front application who permit to use & show Scrapper and API part
+*Front Application made in XX with XXX*
+
+**Version :**
+* Tell what
+
+    
+**Team assigned :**
+* ASSIGN SOMEONE
