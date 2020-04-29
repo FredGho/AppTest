@@ -9,4 +9,8 @@ new Vue({
   router,
   store,
   render: (h) => h(App),
+  data: () => ({
+    // to use in each animations/transitions
+    animated: process.env.ENABLE_ANIMATIONS,
+  }),
 }).$mount('#app');
